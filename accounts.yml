@@ -3,7 +3,7 @@ server:
 spring:
   profiles:
     active:
-     - "qa"
+     - "prod"
   datasource:
     driver-class-name: org.h2.Driver
     password: 1234
