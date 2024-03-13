@@ -1,5 +1,5 @@
 build:
-  version: "5.5"
+  version: "6.5"
 
 accounts:
   message: "Welcome to ZettaBank accounts related TESTING APIs "
