@@ -6,7 +6,7 @@ spring:
 build:
   version: "7.5"
 
-accounts:
+loans:
   message: "Welcome to ZettaBank loans related QA APIs "
   contactDetails:
     name: "Sanjay - QA Lead"
