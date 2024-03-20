@@ -11,7 +11,7 @@ spring:
     show-sql: true
 build:
   version: "2.0"
-accounts:
+loans:
   message: "Welcome to ZettaBank cards related APIs"
   contactDetails:
     name: "Mounika Uppuluru - Developer"
